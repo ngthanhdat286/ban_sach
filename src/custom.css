@@ -1,0 +1,150 @@
+.header {
+    background-color: #e3f2fd;
+}
+
+.logo-img {
+    width: 100px;
+}
+
+.footer {
+    background-color: #e3f2fd;
+    margin-top: 20px;
+}
+
+.menu {
+    background-color: #d9effe;
+}
+
+.banner {
+    width: 78%;
+    height: 60%;
+    margin: 0 auto;
+}
+
+.content {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.loai-san-pham-trang-chu {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10px 4px 10px;
+}
+
+.loai-san-pham-trang-chu-heading {
+    font-weight: bold;
+}
+
+.loai-san-pham-heading {
+    text-align: left;
+    font-weight: bold;
+    margin-left: 8px;
+    margin-bottom: 4px;
+}
+
+.san-pham-lien-quan {
+    text-align: left;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+.san-pham {
+    border: 1px solid black;
+    margin: 6px 10px;
+    display: block;
+    text-decoration: none;
+}
+
+.san-pham-img {
+    width: 100px;
+    height: 140px;
+    margin: 10px 44px;
+}
+
+.ten-san-pham {
+    font-weight: bold;
+    color: black;
+}
+
+.gia {
+    color: black;
+}
+
+.chon-mua-button {
+    width: 100px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.xem-them-btn {
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 500px;
+}
+
+.chi-tiet-san-pham {
+    margin: 0 auto;
+}
+
+.chi-tiet-san-pham-ten {
+    text-align: left;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+.thong-tin-san-pham-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.thong-tin-sp-img {
+    width: 200px;
+}
+
+.thong-tin-sp-ten {
+    font-weight: bold;
+}
+
+.thong-tin-sp-so-luong {
+    margin-bottom: 20px;
+}
+
+.input-so-luong {
+    width: 50px;
+}
+
+.thong-tin-chi-tiet {
+    margin: 0 8px;
+}
+
+.thong-tin-chi-tiet-heading {
+    font-weight: bold;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.thong-tin-chi-tiet-paragraph {
+    text-align: justify;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+
+.form-signin input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
